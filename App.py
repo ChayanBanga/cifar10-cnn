@@ -68,8 +68,8 @@ CLASS_EMOJIS = {
 
 # ── Replace with your HuggingFace model path ─────────────
 # Format: "username/repo-name"  →  file inside repo: "model.pt"
-HF_MODEL_REPO = "YOUR_HF_USERNAME/cifar10-resnet"   # ← change this
-HF_MODEL_FILE = "model.pt"
+HF_MODEL_REPO = "Chayan123banga/cifar10-resnet"   # ← change this
+HF_MODEL_FILE = "cifar10_restnet.pth"
 
 
 # ── Load Model (cached) ───────────────────────────────────
