@@ -66,9 +66,9 @@ CLASS_EMOJIS = {
     'ship': '🚢', 'truck': '🚛'
 }
 
-# ── Replace with your HuggingFace model path ─────────────
-# Format: "username/repo-name"  →  file inside repo: "model.pt"
-HF_MODEL_REPO = "Chayan123banga/cifar10-resnet"   # ← change this
+# ──  HuggingFace model path ─────────────
+
+HF_MODEL_REPO = "Chayan123banga/cifar-10-CNN"   
 HF_MODEL_FILE = "cifar10_restnet.pth"
 
 
