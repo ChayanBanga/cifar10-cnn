@@ -69,7 +69,7 @@ CLASS_EMOJIS = {
 # ──  HuggingFace model path ─────────────
 
 HF_MODEL_REPO = "Chayan123banga/cifar-10-CNN"   
-HF_MODEL_FILE = "cifar10_restnet.pth"
+HF_MODEL_FILE = "cifar10_resnet.pth"
 
 
 # ── Load Model (cached) ───────────────────────────────────
