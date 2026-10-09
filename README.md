@@ -184,7 +184,7 @@ Pillow
 
 ## Live Demo
 
-🚀 [Hugging Face Spaces — Live Demo](#) *(link coming soon)*
+🚀 https://cifar-10-cnn-hnnf2kgg2xt8yy7w8xtpyy.streamlit.app/
 
 ---
 
